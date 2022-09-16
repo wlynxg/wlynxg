@@ -14,4 +14,4 @@
 <span>&emsp;&emsp;</span>
 </div>
 
-<div align="center">![](./github-metrics.sv)
+<div align="center">![](./github-metrics.sv)</div>
