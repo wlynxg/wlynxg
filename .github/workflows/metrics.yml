@@ -27,5 +27,5 @@ jobs:
           # Options
           user: 1314liuwei
           template: terminal
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           config_timezone: Asia/Shanghai
