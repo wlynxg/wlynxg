@@ -12,8 +12,6 @@
 <span>&emsp;&emsp;</span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=1314liuwei" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1314liuwei&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
-</div>
+</div
 
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=1314liuwei" />
-</div>
+![](./profile-3d-contrib/profile-south-season-animate.svg)
