@@ -14,4 +14,4 @@
 <span>&emsp;&emsp;</span>
 </div>
 
-<div align=center>![这里写图片描述](./github-metrics.svg)
+<div align="center">![](./github-metrics.sv)
