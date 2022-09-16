@@ -14,4 +14,4 @@
 <span>&emsp;&emsp;</span>
 </div
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./github-metrics.svg)
