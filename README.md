@@ -6,7 +6,7 @@
 
 ## 📈Statistics
 ### 🌇 Github
-<div align=center><img src="./metrics.plugin.habits.svg"></div>
+<div align=center><img src="./metrics.plugin.isocalendar.fullyear.svg"></div>
 
 <div align="center">
 <span>&emsp;&emsp;</span>
