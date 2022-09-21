@@ -48,5 +48,5 @@ jobs:
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved, skills, recent
-          plugin_leetcode_user: the-harder-the-luckier-2
+          plugin_leetcode_user: 1314liuwei
           config_timezone: Asia/Shanghai
