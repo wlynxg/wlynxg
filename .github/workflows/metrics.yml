@@ -20,7 +20,7 @@ jobs:
           # Options
           user: 1314liuwei
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, community
           config_timezone: Asia/Shanghai
     
       - name: Full-year calendar
