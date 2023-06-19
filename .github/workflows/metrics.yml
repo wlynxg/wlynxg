@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.plugin.accounts.svg
           # Options
-          user: 1314liuwei
+          user: wlynxg
           template: classic
           base: header, activity, community
           config_timezone: Asia/Shanghai
@@ -28,7 +28,7 @@ jobs:
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: 1314liuwei
+          user: wlynxg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -39,11 +39,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.plugin.leetcode.svg
           # Options
-          user: 1314liuwei
+          user: wlynxg
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved, skills, recent
-          plugin_leetcode_user: 1314liuwei
+          plugin_leetcode_user: wlynxg
           config_timezone: Asia/Shanghai
