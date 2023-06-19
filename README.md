@@ -14,6 +14,3 @@
 <span>&emsp;&emsp;</span>
 </div>
 
-### 🗳️ Leetcode
-
-<div align=center><img src="./metrics.plugin.leetcode.svg"></div>
