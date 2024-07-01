@@ -71,8 +71,6 @@
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x9</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x9</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Stack <span class="count">x7</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x5</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x5</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
@@ -87,8 +85,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Size Subarray Sum</div>
-                            <div class="date">30 Jun 2024</div>
+                            <div class="title">Fruit Into Baskets</div>
+                            <div class="date">1 Jul 2024</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +94,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Squares of a Sorted Array</div>
-                            <div class="date">29 Jun 2024</div>
+                            <div class="title">Minimum Size Subarray Sum</div>
+                            <div class="date">30 Jun 2024</div>
                         </div>
                     </div>
                 </section>
