@@ -85,8 +85,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Roman to Integer</div>
-                            <div class="date">26 Jul 2024</div>
+                            <div class="title">Longest Common Prefix</div>
+                            <div class="date">27 Jul 2024</div>
                         </div>
                     </div>
                     <div class="field">
@@ -94,8 +94,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Majority Element</div>
-                            <div class="date">25 Jul 2024</div>
+                            <div class="title">Roman to Integer</div>
+                            <div class="date">26 Jul 2024</div>
                         </div>
                     </div>
                 </section>
